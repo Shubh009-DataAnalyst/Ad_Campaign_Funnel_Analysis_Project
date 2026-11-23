@@ -6,7 +6,7 @@ An end-to-end data analytics project using **Python (Google Colab), MySQL and Po
 
 > **Note:** The dataset used in this project is **simulated** (generated with the help of an AI assistant to look like real ad campaign data). Results are illustrative and are not real company findings. More on this in the [Limitations](#limitations) section.
 
-![Dashboard](Power%20BI%20Dashboard/image.png)
+![Dashboard](Power%20BI%20Dashboard/Dashboard_screenshot.png)
 
 ---
 
